@@ -1,0 +1,1 @@
+python predict_api2.py --weight ./weights/metalsurface_best.pt  --classes 0
